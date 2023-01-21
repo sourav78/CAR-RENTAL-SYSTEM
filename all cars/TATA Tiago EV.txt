@@ -1,0 +1,20 @@
+Car model - TATA Tiago EV
+
+Price - 2000 / day    *(per day)
+
+Engine type - Electric
+
+Specifications :-
+-----------------
+
+|------------------------------------|
+  Battery capacity - 24 kWh
+|------------------------------------|
+  Max power - 73.75 bhp
+|------------------------------------|
+  Seating capacity - 5
+|------------------------------------|
+  Range - 315 km
+|------------------------------------|
+  Transmission - Automatic
+|------------------------------------|

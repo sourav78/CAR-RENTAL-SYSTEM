@@ -1,0 +1,20 @@
+Car model - TATA Nexon Ev
+
+Price - 2000 / day    *(per day)
+
+Engine type - Electric
+
+Specifications :-
+-----------------
+
+|------------------------------------|
+  Battery capacity - 40.5 kWh
+|------------------------------------|
+  Max power - 141.04bhp
+|------------------------------------|
+  Seating capacity - 5
+|------------------------------------|
+  Range - 437 km
+|------------------------------------|
+  Transmission - Automatic
+|------------------------------------|
